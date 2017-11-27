@@ -8,6 +8,6 @@ Oracle Container Cloud Service
 ---
 # Oracle Container Cloud Service
 <!-- .slide: class="center" -->
-* PT: [https://gitpitch.com/wjyoo/docker-spring-tutorial?p=presentation#/](https://gitpitch.com/credemol/docker-spring-tutorial?p=presentation#/)
+* PT: [https://gitpitch.com/wjyoo/dku_occs/](https://gitpitch.com/wjyoo/dku_occs/)
 
 * Slack: [https://cloudnativeapp.slack.com](https://cloudnativeapp.slack.com)
