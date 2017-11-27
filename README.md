@@ -1,1 +1,1 @@
-# dku_occs
+# Oracle Container Cloud Service for DKU.
