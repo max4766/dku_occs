@@ -22,11 +22,11 @@ Putty로 서버 접속
 
 아래의 Host Name에 Oracle Cloud Host 인스턴스의 서버 IP를 입력합니다.
 
-![](media/c438fc8bcfb7c241e7d84efc8436b35e.emf)
+![](media/c438fc8bcfb7c241e7d84efc8436b35e.png)
 
 Auto-login username에 접속할 사용자 이름인 opc를 입력합니다.
 
-![](media/9c28941328aff3f696a2a9d14c1ec696.emf)
+![](media/9c28941328aff3f696a2a9d14c1ec696.png)
 
 Putty에서 해당 파일을 인증키로 사용하기 위해서 ConnectionSSHAuth 탭에서 위에서
 저장한 .ppk 파일을 선택한다.
@@ -35,4 +35,4 @@ Putty에서 해당 파일을 인증키로 사용하기 위해서 ConnectionSSHAu
 
 Open을 눌러서 아래와 같이 Host에 접속합니다.
 
-![](media/f511cf831926b57094de52615c9542a7.emf)
+![](media/f511cf831926b57094de52615c9542a7.png)
