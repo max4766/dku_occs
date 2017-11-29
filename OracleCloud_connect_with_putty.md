@@ -1,8 +1,8 @@
 Putty download 
 ===============
 
-<http://www.putty.org/> 에서 다운로드 받아 설치하거나, 
-아래쪽 링크에서 putty.exe 와 puttygen.exe 만 다운로드 받으면 됩니다.
+<http://www.putty.org/> 에서 package 파일을 다운로드 받아 설치하거나, 
+해당 페이지의 아래쪽에서 putty.exe 와 puttygen.exe 만 다운로드 받으면 됩니다.
 
 
 Putty용 Private Key변환
